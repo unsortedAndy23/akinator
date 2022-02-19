@@ -32,7 +32,9 @@ msg = message;
       .setDescription(`Your ping is ${ping} ms\nLatency is ${client.ws.ping} ms`)
       message.reply({embeds:[embed]})
 
-    }
+    }else if(command("invite")){
+message.channel.send(`https://discord.com/api/oauth2/authorize?client_id=${client.user.id}&permissions=362496&scope=bot%20applications.commands`);
+}
 
 
 
