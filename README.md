@@ -1,3 +1,32 @@
-# Welcome to Node 16!
+# Akinator
+> A simple akinator bot.
 
-This template provides an easy way to use NodeJS v16 on Replit! As of writing, NodeJS repls have Node v12, which is several years out of date.
+#### Dependencies:
+- [dotenv](https://www.npmjs.com/package/dotenv) 
+- [discord.js](https://www.npmjs.com/package/discord.js) 
+- [discord.js-akinator](https://www.npmjs.com/package/discord.js-akinator) 
+
+#### Requirements:
+- `node.js` ▶️ version 16 or above.
+- `discord.js` ▶️ version 13 or above.
+
+## Getting Started
+
+- ⭐ Star the repo;)
+
+- Run: 
+```bash
+$ git clone https://github.com/Andy-THE-Coder/akinator.git
+```
+
+- Create `.env`:
+```m
+TOKEN=YourTokenGoesHere
+Prefix=!
+```
+
+- Run: 
+```bash
+$ npm i
+$ node index.js
+```
