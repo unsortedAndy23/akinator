@@ -1,7 +1,7 @@
 {
-  "name": "akin8or",
+  "name": "akinator",
   "version": "1.0.0",
-  "description": "This template provides an easy way to use NodeJS v16 on Replit! As of writing, NodeJS repls have Node v12, which is several years out of date.",
+  "description": "A javascript discord bot to play the akinator game.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
