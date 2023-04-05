@@ -1,3 +1,5 @@
+## ⚠️ This repository is archived, since I've stopped working on Discord projects 😓
+
 # Akinator
 > A simple akinator bot.
 
